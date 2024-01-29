@@ -31,9 +31,9 @@ const Header = () => {
                 </Link>
 
                 <div className="header-right">
-                    <a target='_blank' href="https://www.linkedin.com/in/nareshkumaralaria/">Linkedin</a>
+                    <a target='_blank' href="mailto:fahd.bahjaji@ecoles-epsi.net">Email</a>
                     <span>/</span>
-                    <a target='_blank' href="https://github.com/nareshkumaralaria">Github</a>
+                    <a target='_blank' href="https://lucky-cocada-355e1e.netlify.app">Github</a>
                 </div>
 
                 <div className="header-right-icons">
